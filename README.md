@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-blue)](https://deepmind.google/technologies/gemini/)
+[![Demo](https://img.shields.io/badge/Demo-Live%20App-success)](https://vercel.com/dzgreenos-projects/dub-ai)
 
 **Dub-AI** is an advanced, autonomous AI agent designed to seamlessly dub videos into other languages. It extracts audio, transcribes and translates dialogue, generates synchronized voiceovers, and reintegrates them into the original video with professional-grade audio mixing—all running entirely in the browser.
 
