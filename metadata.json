@@ -1,0 +1,5 @@
+{
+  "name": "DubAI",
+  "description": "Professional AI Video Dubbing platform using Gemini for transcription, translation, and emotional speech generation.",
+  "requestFramePermissions": []
+}
